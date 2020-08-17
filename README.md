@@ -5,7 +5,8 @@ August 17th 2020
 Bikeshare
 
 ### Description
-
+Used Python to understand U.S Bikeshare data. Calculates statics and build an interactive environment
+where a user chooses data and filter for a dataset to analyze.
 
 ### Files used
 
