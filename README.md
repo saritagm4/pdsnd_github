@@ -2,7 +2,7 @@
 August 17th 2020
 
 ### Project Title
-Bikeshare
+Bikeshare Data Analytics
 
 ### Description
 Used Python to understand U.S Bikeshare data. Calculates statics and build an interactive environment
